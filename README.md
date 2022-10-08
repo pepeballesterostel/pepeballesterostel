@@ -18,5 +18,16 @@
 </h1>
 </div>
 
+---
 
+### :bust_in_silhouette: About Me :
 
+I am a PhD Fellow in Digital Visual Studies at the University of Zurich.
+
+-  My background is in telecom engineering and Machine Learning :student:
+
+-  I'm interested in the intersection between art :man_artist: and technology :man_technologist:
+
+-  My research :mag: focus in novel ways to explain art historical phenomena using computational methods
+
+- :mailbox: Contact: [![website Badge](https://img.shields.io/badge/-Email-blue?style=flat&logoColor=white)](jose.ballesteroszapata@uzh.ch)
