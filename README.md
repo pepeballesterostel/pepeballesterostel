@@ -30,7 +30,7 @@ I am a PhD Fellow in Digital Visual Studies at the University of Zurich.
 
 -  My research :mag: focus in novel ways to explain art historical phenomena using computational methods
 
-- :mailbox: Contact: [![website Badge](https://img.shields.io/badge/-Email-blue?style=flat&logoColor=white)](jose.ballesteroszapata@uzh.ch)
+-  :mailbox: Contact: jose.ballesteroszapata@uzh.ch
 
 ---
 
